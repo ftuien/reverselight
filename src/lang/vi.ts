@@ -23,23 +23,23 @@ const vi = {
     social_networks: [
       {
         icon: "SiGmail",
-        link: "mailto:duyntp2000@gmail.com",
+        link: "mailto:ualn.fdd@gmail.com",
       },
       {
         icon: "SiLinkedin",
-        link: "https://www.linkedin.com/in/duyntp2000/",
+        link: "https://www.linkedin.com/in/uy%C3%AAn-ph%E1%BA%A1m-thu-b6621831a",
       },
       {
         icon: "SiGithub",
-        link: "https://github.com/howznguyen",
+        link: "https://github.com/ftuien",
       },
       {
         icon: "SiGitlab",
-        link: "https://gitlab.com/howznguyen",
+        link: "https://gitlab.com/ftuien",
       },
       {
         icon: "SiFacebook",
-        link: "https://www.facebook.com/howznguyen",
+        link: "https://www.facebook.com/ualn.fd",
       },
       
     ],
@@ -49,10 +49,10 @@ const vi = {
   },
   home: {
     intro: {
-      header: "Xin chào, Mình là Howz Nguyễn",
+      header: "Xin chào, Mình là Sherry",
       description:
-        "Mình hiện tại đang là một Lập Trình Viên Fullstack. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
-      image: "/assets/images/hwz.ngn.jpg",
+        "Mình hiện tại đang là học sinh cấp 3. Đây là một website mình tạo ra với mong muốn được chia sẻ kiến thức của mình đến với mọi người. Cảm ơn mọi người đã ghé qua. ❤️",
+      image: "https://i.pinimg.com/564x/d3/0f/38/d30f38cc6ec0ee37c4152a8752c53106.jpg",
       links: [
         {
           icon: "HiOutlineNewspaper",
